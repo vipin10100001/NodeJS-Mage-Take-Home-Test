@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-mage-take-home-test",
+  "version": "1.0.0",
+  "description": "NodeJS Mage Take Home Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "N Vipin Prasad",
+  "license": "ISC"
+}
